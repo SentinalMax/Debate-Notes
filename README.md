@@ -27,6 +27,7 @@ Alex Vergara (11/30/23)
 * Inductive reasoning - a logical process in which multiple premises, all believed true or found true most of the time, are combined to obtain a specific conclusion.
 * Deductive reasoning - a logical process in which a conclusion is based on the concordance of multiple premises that are generally assumed to be true.
 * Composition/Division Fallacy - The fallacy of composition consists in treating a distributed characteristic as if it were collective. It occurs when one makes the mistake of attributing to a group (or a whole) some characteristic that is true only of its individual members (or its parts), and then makes inferences based on that mistake.
+* Sunk-cost Fallacy - The phenomenon whereby a person is reluctant to abandon a strategy or course of action because they have invested heavily in it, even when it is clear that abandonment would be more beneficial.
 
 **Philosophy:**
 
